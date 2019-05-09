@@ -1,4 +1,4 @@
-(define (domain rubiks-domain)
+(define (domain rubiks-domain01)
 (:requirements :strips)
 (:constants
     dummypoint
